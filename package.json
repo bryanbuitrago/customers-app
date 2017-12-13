@@ -1,0 +1,19 @@
+{
+  "name": "nodeapp",
+  "version": "1.0.0",
+  "description": "A customer management app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "*",
+    "ejs": "^2.5.7",
+    "express": "*"
+  },
+  "author": "Bryan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^1.12.6"
+  }
+}
